@@ -7,7 +7,7 @@ export default class HomePage extends Component {
     }
   
     render() {
-      return <h1>this is the home page</h1>;
+      return <h4 className='center'>this is the home page</h4>;
     }
   }
   
